@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">examen</string>
+    <string name="capture">Capture</string>
+    <string name="log_out">Cerra Sesión</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="a_adir">Añadir</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="filtrar_por">Filtrar por:</string>
+    <string name="nombre">Nombre</string>
+    <string name="tel_fono">Teléfono</string>
+    <string name="taxi">Taxi:</string>
+    <string name="marca">Marca</string>
+    <string name="disco">Disco</string>
+    <string name="matr_cula">Matrícula</string>
+    <string name="buscar">Buscar</string>
+    <string name="fitro1">Fitro1</string>
+    <string name="n_mero">Número</string>
+    <string name="crear">Crear</string>
+    <string name="c_dula">Cédula</string>
+    <string name="nombre_per">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="direcci_n">Dirección</string>
+    <string name="taxi__">Taxi</string>
+    <string name="disco__">Disco</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
